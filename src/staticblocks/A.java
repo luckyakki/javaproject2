@@ -8,7 +8,7 @@ package staticblocks;
 
 	public static void main(String[] args) throws ClassNotFoundException { 
 		Class.forName("B.Class");
-
+		Class.forName("C.Class");
 	}
 
 }
