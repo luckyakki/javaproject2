@@ -11,6 +11,12 @@ public class Test1 {
 		Test1 t1=new Test1();
 		int x=t1.m1();
       System.out.println(x);
+      
+      
+      
+      
+      
+      
 	}
 
 }
