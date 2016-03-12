@@ -4,7 +4,7 @@ public class Test1 {
 	int a=100;
 	int m1(){
 		System.out.println("m1 method");
-		return a;
+		return a; 
 	}
 
 	public static void main(String[] args) {
