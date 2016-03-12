@@ -15,6 +15,8 @@ package inheritance;
 
 	public static void main(String[] args) {
 		new Child1().m2();
+		
+		
 	
 	}}
 
